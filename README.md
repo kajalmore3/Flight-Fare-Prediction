@@ -165,4 +165,4 @@ This project successfully analyzed flight fare data and developed machine learni
 
 Kajal More
 
-Data Analyst | Machine Learning Enthusiast
+Data Analyst | Machine Learning 
